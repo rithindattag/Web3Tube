@@ -1,15 +1,3 @@
-<div id="top"></div>
-
-<br />
-<div align="center">
-  <a href="https://github.com/rithindattag/Web3Tube">
-    <img src="https://raw.githubusercontent.com/suhailkakar/Decentralized-YouTube/version-1/logo.png" alt="Logo" width="110" height="80">
-  </a>
-
-<h3 align="center">Web3Tube</h3>
-
-</div>
-
 ## About The Project
 
 Web3Tube is a social media platform built on top of Polygon network and The Graph, that allows users to create, share and watch videos, without worrying about their privacy.
