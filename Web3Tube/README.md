@@ -2,7 +2,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/suhailkakar/Decentralized-YouTube">
+  <a href="https://github.com/rithindattag/Web3Tube">
     <img src="https://raw.githubusercontent.com/suhailkakar/Decentralized-YouTube/version-1/logo.png" alt="Logo" width="110" height="80">
   </a>
 
