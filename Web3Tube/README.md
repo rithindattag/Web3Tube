@@ -6,19 +6,13 @@
     <img src="https://raw.githubusercontent.com/suhailkakar/Decentralized-YouTube/version-1/logo.png" alt="Logo" width="110" height="80">
   </a>
 
-<h3 align="center">Web3Tube — Web3Tube is a social media platform built on top of Polygon network and The Graph, that allows users to create, share and watch videos, without worrying about their privacy.</h3>
+<h3 align="center">Web3Tube — A social media platform built on top of Polygon network and The Graph, that allows users to create, share and watch videos, without worrying about their privacy.</h3>
 
 </div>
 
 ## About The Project
 
-[![Ourtube][product-screenshot]](https://twitter.com/suhailkakar)
-
-OurTube is a YouTube Clone built on top of Polygon network and The Graph, that allows users to create, share and watch videos, without worrying about their privacy.
-
-Here is a complete tutorial on how to build a similar project: https://blog.suhailkakar.com/building-a-full-stack-web3-youtube-clone-with-next-ipfs-the-graph-solidity-and-livepeer
-
-> This is the version 2.0 of this applications, you can find the first verion [here](https://github.com/suhailkakar/Decentralized-YouTube/tree/version-1)
+Web3Tube is a social media platform built on top of Polygon network and The Graph, that allows users to create, share and watch videos, without worrying about their privacy.
 
 ### Built With
 
@@ -83,24 +77,3 @@ You need to have Node.js, NPM and hardhat installed on your computer, before run
    ```sh
    npm start
    ```
-
-
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue.
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-### License
-
-This project is an open source software licensed under the MIT License
-
-[product-screenshot]: https://radicle.community/uploads/default/original/2X/1/1275b4e842a315e9211c8905c16a34116493c301.jpeg
-# Web3Tube
